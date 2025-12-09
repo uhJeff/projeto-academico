@@ -1,0 +1,43 @@
+C:\Users\aluno\Downloads\prjAcademico\bin\Debug\prjAcademico.exe.config
+C:\Users\aluno\Downloads\prjAcademico\bin\Debug\prjAcademico.exe
+C:\Users\aluno\Downloads\prjAcademico\bin\Debug\prjAcademico.pdb
+C:\Users\aluno\Downloads\prjAcademico\obj\Debug\prjAcademico.csproj.AssemblyReference.cache
+C:\Users\aluno\Downloads\prjAcademico\obj\Debug\prjAcademico.frmAluno.resources
+C:\Users\aluno\Downloads\prjAcademico\obj\Debug\prjAcademico.Properties.Resources.resources
+C:\Users\aluno\Downloads\prjAcademico\obj\Debug\prjAcademico.csproj.GenerateResource.cache
+C:\Users\aluno\Downloads\prjAcademico\obj\Debug\prjAcademico.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\prjAcademico\obj\Debug\prjAcademico.exe
+C:\Users\aluno\Downloads\prjAcademico\obj\Debug\prjAcademico.pdb
+C:\Users\Giulia e Giovana\Downloads\projetoAcademico\prjAcademico\bin\Debug\prjAcademico.exe.config
+C:\Users\Giulia e Giovana\Downloads\projetoAcademico\prjAcademico\bin\Debug\prjAcademico.exe
+C:\Users\Giulia e Giovana\Downloads\projetoAcademico\prjAcademico\bin\Debug\prjAcademico.pdb
+C:\Users\Giulia e Giovana\Downloads\projetoAcademico\prjAcademico\obj\Debug\prjAcademico.csproj.AssemblyReference.cache
+C:\Users\Giulia e Giovana\Downloads\projetoAcademico\prjAcademico\obj\Debug\prjAcademico.frmAluno.resources
+C:\Users\Giulia e Giovana\Downloads\projetoAcademico\prjAcademico\obj\Debug\prjAcademico.Properties.Resources.resources
+C:\Users\Giulia e Giovana\Downloads\projetoAcademico\prjAcademico\obj\Debug\prjAcademico.csproj.GenerateResource.cache
+C:\Users\Giulia e Giovana\Downloads\projetoAcademico\prjAcademico\obj\Debug\prjAcademico.csproj.CoreCompileInputs.cache
+C:\Users\Giulia e Giovana\Downloads\projetoAcademico\prjAcademico\obj\Debug\prjAcademico.exe
+C:\Users\Giulia e Giovana\Downloads\projetoAcademico\prjAcademico\obj\Debug\prjAcademico.pdb
+C:\Users\Giulia e Giovana\Downloads\projetoAcademico\prjAcademico\obj\Debug\prjAcademico.frmAdcAluno.resources
+C:\Users\Giulia e Giovana\Downloads\projeto-Academico\prjAcademico\bin\Debug\prjAcademico.exe.config
+C:\Users\Giulia e Giovana\Downloads\projeto-Academico\prjAcademico\bin\Debug\prjAcademico.exe
+C:\Users\Giulia e Giovana\Downloads\projeto-Academico\prjAcademico\bin\Debug\prjAcademico.pdb
+C:\Users\Giulia e Giovana\Downloads\projeto-Academico\prjAcademico\obj\Debug\prjAcademico.csproj.AssemblyReference.cache
+C:\Users\Giulia e Giovana\Downloads\projeto-Academico\prjAcademico\obj\Debug\prjAcademico.frmCadastroAluno.resources
+C:\Users\Giulia e Giovana\Downloads\projeto-Academico\prjAcademico\obj\Debug\prjAcademico.frmControleAluno.resources
+C:\Users\Giulia e Giovana\Downloads\projeto-Academico\prjAcademico\obj\Debug\prjAcademico.Properties.Resources.resources
+C:\Users\Giulia e Giovana\Downloads\projeto-Academico\prjAcademico\obj\Debug\prjAcademico.csproj.GenerateResource.cache
+C:\Users\Giulia e Giovana\Downloads\projeto-Academico\prjAcademico\obj\Debug\prjAcademico.csproj.CoreCompileInputs.cache
+C:\Users\Giulia e Giovana\Downloads\projeto-Academico\prjAcademico\obj\Debug\prjAcademico.exe
+C:\Users\Giulia e Giovana\Downloads\projeto-Academico\prjAcademico\obj\Debug\prjAcademico.pdb
+C:\Users\aluno\Downloads\projeto-Academico\prjAcademico\bin\Debug\prjAcademico.exe.config
+C:\Users\aluno\Downloads\projeto-Academico\prjAcademico\bin\Debug\prjAcademico.exe
+C:\Users\aluno\Downloads\projeto-Academico\prjAcademico\bin\Debug\prjAcademico.pdb
+C:\Users\aluno\Downloads\projeto-Academico\prjAcademico\obj\Debug\prjAcademico.csproj.AssemblyReference.cache
+C:\Users\aluno\Downloads\projeto-Academico\prjAcademico\obj\Debug\prjAcademico.frmCadastroAluno.resources
+C:\Users\aluno\Downloads\projeto-Academico\prjAcademico\obj\Debug\prjAcademico.frmControleAluno.resources
+C:\Users\aluno\Downloads\projeto-Academico\prjAcademico\obj\Debug\prjAcademico.Properties.Resources.resources
+C:\Users\aluno\Downloads\projeto-Academico\prjAcademico\obj\Debug\prjAcademico.csproj.GenerateResource.cache
+C:\Users\aluno\Downloads\projeto-Academico\prjAcademico\obj\Debug\prjAcademico.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\projeto-Academico\prjAcademico\obj\Debug\prjAcademico.exe
+C:\Users\aluno\Downloads\projeto-Academico\prjAcademico\obj\Debug\prjAcademico.pdb
